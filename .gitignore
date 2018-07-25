@@ -13,6 +13,11 @@
 !/log/.keep
 !/tmp/.keep
 
+/public/system
+/coverage/
+/spec/tmp
+capybara-*.html
+
 # Ignore uploaded files in development
 /storage/*
 
