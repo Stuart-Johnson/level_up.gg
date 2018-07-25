@@ -1,0 +1,15 @@
+development:
+  username: 
+  adapter: mysql2
+  encoding: utf8
+  database: levelup_development
+  pool: 5
+  timeout: 5000
+
+test:
+  adapter: mysql2
+  database: levelup_test
+  encoding: utf8
+  username: 
+  pool: 5
+  timeout: 5000
